@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99ea19b4-1043-4487-9381-87ed3f1ac2da" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitingore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1653723692252</updated>
       <workItem from="1653723693435" duration="549000" />
-      <workItem from="1653724328081" duration="1987000" />
+      <workItem from="1653724328081" duration="3355000" />
     </task>
     <servers />
   </component>
