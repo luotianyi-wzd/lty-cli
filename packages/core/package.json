@@ -1,6 +1,6 @@
 {
   "name": "@lty-cli/core",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "lty-cli core",
   "author": "chunfeng <chunfeng@ywwl.com>",
   "homepage": "",
@@ -18,5 +18,6 @@
   ],
   "scripts": {
     "test": "echo \"Run testing from core\""
-  }
+  },
+  "gitHead": "dafe6e9f9d0b7f5482c3b4a50c5b30cba7ed87bc"
 }
